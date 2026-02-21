@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abu Huraira Shaikh</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE73LxG3h465g/profile-displaybackgroundimage-shrink_200_800/B56ZrP2ysjHQAU-/0/1764423841333?e=2147483647&v=beta&t=DVD-b2vAq9zjN5QvRp9IlRhuIzUt_ATTzT-MFfQaCKU" /> 
 
-https://media.licdn.com/dms/image/v2/D5616AQE73LxG3h465g/profile-displaybackgroundimage-shrink_200_800/B56ZrP2ysjHQAU-/0/1764423841333?e=2147483647&v=beta&t=DVD-b2vAq9zjN5QvRp9IlRhuIzUt_ATTzT-MFfQaCKU
 
-<h3 align="center">A passionate web developer.</h3>
+Hi 👋 My name is Abu Huraira Shaikh
+===================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abu&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abu" /> </p>
+Web Developer
+-------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-abu" alt="developer-abu" /></a> </p>
+Hi, I’m Abu Huraira Shaikh — a passionate developer who loves building meaningful digital experiences.
 
-- 🌱 I’m currently learning **JavaScript**
+My journey in development has been driven by curiosity, consistency, and a strong desire to improve every single day. I love exploring modern web technologies, understanding how systems work, and experimenting with new concepts to sharpen my skills.
 
-- 📫 How to reach me **officialworkofhurairashaikh01@gmail.com**
+* 🌍  I'm based in India
+* ✉️  You can contact me at [officialworkofhurairashaikh01@gmail.com](mailto:officialworkofhurairashaikh01@gmail.com)
+* 🧠  I'm currently learning JavaScript
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abu-huraira-shaikh-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-huraira-shaikh-developer" height="30" width="40" /></a>
-<a href="https://fb.com/abuhurairashaikhwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuhurairashaikhwb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@devsolutionbyabu?si=eotxa09d9w66tccv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@devsolutionbyabu?si=eotxa09d9w66tccv" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/741152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="741152" height="30" width="40" /></a></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/developer-abu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/abu-huraira-shaikh-developer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/AbuHurairaShaikhWB/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/developer-abu/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/developer-abu/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/developer-abu/"><img src="https://github-readme-stats.vercel.app/api?username=developer-abu/&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="developer-abu/'s GitHub stats" /></a>
+
+<a href="https://github.com/developer-abu/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abu/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
