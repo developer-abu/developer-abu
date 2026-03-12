@@ -34,7 +34,7 @@ I love exploring modern web technologies and continuously improving my skills.
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" title="HTML"/>/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" title="HTML"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -50,7 +50,7 @@ I love exploring modern web technologies and continuously improving my skills.
 </a>
 
 <a href="https://github.com/" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" title="GitHub"/>
+<i class="fa-brands fa-github"></i>
 </a>
 
 </p>
