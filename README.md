@@ -50,7 +50,7 @@ I love exploring modern web technologies and continuously improving my skills.
 </a>
 
 <a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
 </p>
