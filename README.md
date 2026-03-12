@@ -28,31 +28,7 @@ I love exploring modern web technologies and continuously improving my skills.
 # 🛠 Skills
 
 <p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" title="JavaScript"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" title="HTML"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" title="CSS"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" title="VS Code"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" title="Git"/>
-</a>
-
-<a href="https://github.com/" title="GitHub">
-<i class="fa-brands fa-github"></i>
-</a>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark&perline=6" />
 </p>
 
 # 🌐 Connect With Me
