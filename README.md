@@ -25,7 +25,7 @@ My journey in development has been driven by curiosity, consistency, and a stron
 <a href="https://www.github.com/developer-abu/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/developer-abu/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left">
-<a href="https://twitter.com/https://x.com/developerabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/developerabu" height="30" width="40" /></a>
+<a href="https://x.com/https://x.com/developerabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/developerabu" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/developerabuwb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/developerabuwb/" height="30" width="40" /></a>
 </p>
 
