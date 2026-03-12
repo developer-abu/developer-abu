@@ -36,4 +36,18 @@ My journey in development has been driven by curiosity, consistency, and a stron
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+<a href="https://github.com/developer-abu?tab=repositories">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developer-abu&theme=github_dark" />
+</a>
+
+<a href="https://github.com/developer-abu?tab=repositories">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developer-abu&theme=github_dark" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/developer-abu">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-abu&theme=github_dark" />
+</a>
+</p><br /><br /><br /><br /><br /><br /><br />
