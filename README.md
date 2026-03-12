@@ -1,4 +1,6 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQE73LxG3h465g/profile-displaybackgroundimage-shrink_200_800/B56ZrP2ysjHQAU-/0/1764423841333?e=2147483647&v=beta&t=DVD-b2vAq9zjN5QvRp9IlRhuIzUt_ATTzT-MFfQaCKU" />
+<p align="center">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE73LxG3h465g/profile-displaybackgroundimage-shrink_200_800/B56ZrP2ysjHQAU-/0/1764423841333?e=2147483647&v=beta&t=DVD-b2vAq9zjN5QvRp9IlRhuIzUt_ATTzT-MFfQaCKU" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋 I'm Abu Huraira Shaikh</h1>
 <h3 align="center">Web Developer • Problem Solver • Tech Explorer</h3>
