@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;JavaScript+Developer" />
+</p>
+
+<p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQE73LxG3h465g/profile-displaybackgroundimage-shrink_200_800/B56ZrP2ysjHQAU-/0/1764423841333?e=2147483647&v=beta&t=DVD-b2vAq9zjN5QvRp9IlRhuIzUt_ATTzT-MFfQaCKU" width="100%" />
 </p>
 
@@ -41,9 +45,15 @@ I love exploring modern web technologies and continuously improving my skills.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40"/>
 </a>
 
-</p>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40"/>
+</a>
 
----
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="40" height="40"/>
+</a>
+
+</p>
 
 # 🌐 Connect With Me
 
