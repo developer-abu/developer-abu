@@ -28,7 +28,7 @@ I love exploring modern web technologies and continuously improving my skills.
 # 🛠 Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vscode,git,github&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vscode,git,github&theme=dark&perline=8" />
 </p>
 
 # 🌐 Connect With Me
